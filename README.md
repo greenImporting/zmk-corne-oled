@@ -8,3 +8,4 @@ Eyelash Corne ZMK Repo
 
 ![Photo of Eyelash Peripherals Corne](https://ae01.alicdn.com/kf/Sa797fee25edd44248fbfdb0e13d44e00B.jpg)
 ( custom corne, will not work with [foostan's Corne](https://github.com/foostan/crkbd) )
+forked from https://github.com/a741725193/zmk-corne-oled
